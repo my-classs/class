@@ -1,0 +1,44 @@
+body{
+	background: #e9ebee;
+}
+.padding0{
+	padding: 0px;
+}
+/*start font */
+@font-face {
+	font-family:'MyanmarThree';
+	src: url('../fonts/myanmar3.woff') format('woff'), url('../fonts/myanmar3.ttf') format('ttf');
+}
+
+.mmlanguage, .mmlanguage *
+{
+	font-family:MyanmarThree,'Masterpiece Uni Sans' !important;
+	font-size: 13px;
+}
+
+/* header bar */
+.header-bar{
+	background: #2A5289;
+	padding: 5px;
+}
+.admin-logout{
+	margin-top: 8px;
+}
+.main-content{
+	margin-top: 70px;
+}
+.navbar-brand{
+	color: white!important;
+	font-size: 36px;
+	text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+	font-weight: bold;
+}
+.header-img-box{
+	border-radius: 3px;
+	float: left;
+}
+.header-img{
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+}

@@ -1,0 +1,38 @@
+.content{
+	padding: 0px;
+}
+.register-shell{
+	padding-bottom: 20px;
+}
+.btn{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#password_strength
+{
+    font-weight: bold;
+}
+#pass_confirm{
+	color: green;
+	display: none;
+}
+#pass_error{
+	color: red;
+	display: none;
+}
+.user_choose{
+	padding: 0px;
+}
+.user_choose > div {
+	padding: 0px;
+}
+.already{
+	min-height: 30px;
+	line-height: 30px;
+	background: #e7ebee;
+	text-align: center;
+	border: 1px solid white;
+}
+.class-name{
+	display: none;
+}

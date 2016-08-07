@@ -1,0 +1,30 @@
+.content{
+	
+}
+.list-item{
+	padding:5px;
+	border: 1px solid #e6e6e6;
+	text-align: center;
+	margin-bottom: 20px;
+	min-height: 255px;
+}
+
+.name{
+	font-weight: bold;
+	color: #666;
+}
+.name a{
+	color: #666;
+}
+img{
+	width: 222px;
+	height: 124px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.address{
+	font-size: 12px;
+}
+a.btn{
+	margin-bottom: 3px;
+}
